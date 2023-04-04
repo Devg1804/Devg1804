@@ -1,10 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+[![MasterHead](https://image.freepik.com/fotos-gratis/conceito-de-inteligencia-artificial-de-robo-futurista_31965-6356.jpg)]
 <h1 align="center">Hi 👋, I'm Dev gupta</h1>
 <h3 align="center">A Tech Enthusiast, interested in learning and finding new avenues in the field of Artificial Intelligence and Machine Learning. Ready to take up challenges and ace them.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devg1804&label=Profile%20views&color=0e75b6&style=flat" alt="devg1804" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devg1804" alt="devg1804" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devg1804&show_icons=true&locale=en" alt="devg1804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devg1804&" alt="devg1804" /></p>
-
