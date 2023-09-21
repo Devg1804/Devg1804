@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
-- 💬 Ask me about **Javascript,ReactJS,Python,Machine learning algo**
+- 💬 Ask me about **Python,Machine learning, Deep Learning, AI**
 
 - 📫 How to reach me **devg4754@gmail.com**
 
